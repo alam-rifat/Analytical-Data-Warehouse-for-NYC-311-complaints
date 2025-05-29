@@ -1,3 +1,6 @@
 # Analytical-Data-Warehouse-for-NYC-311-complaints
 
 This project involved building an end-to-end analytical data warehouse solution by integrating NYC 311 noise complaints data with NYC crashes data to uncover patterns or trends throughout the five boroughs. A star schema was designed with two fact tables and multiple dimensions to optimize query performance. Data was extracted using a Python script that pulled over 9 million records via the Socrata API and ingested into Google BigQuery through an ETL pipeline. Key performance indicators were defined to guide analysis, and SQL was used to query the data. The insights were visualized through dynamic Tableau dashboards, with key findings highlighting correlations and trends.
+
+
+*Remarks: This project offered hands-on experience in developing a scalable, end-to-end analytical data warehouse solution using cloud technologies. It emphasized the importance of efficient star schema design and thoughtful KPI definition. I also expanded my technical toolkit by working with new Python libraries, including the Sodapy and Google Cloud Client. Overall, The project strengthened my skills in data modeling, pipeline development, and data visualization, while underscoring the power of analytical storytelling in driving informed, data-driven decisions.*
